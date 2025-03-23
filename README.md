@@ -1,4 +1,4 @@
-#-Mystery-Letters-
+# -Mystery-Letters-
 <br>
 __ABOUT THE GAME__
 <br>
@@ -12,11 +12,11 @@ You must guess the correct letters in the right order within 15 attempts.
 <br>
 After each guess, you'll receive clues to help you:
 <br>
-"Fermi"   A letter is correct and in the right position.
+    "Fermi"   A letter is correct and in the right position.
 <br>
-"Pico"    A letter is correct but in the wrong position.
+    "Pico"    A letter is correct but in the wrong position.
 <br>
-"Bagels"  No letters are correct.
+    "Bagels"  No letters are correct.
 <br>
 __WIN CONDITION__
 <br>
