@@ -1,9 +1,9 @@
 # -Mystery-Letters-
-<br>
+<br> <br>
 __ABOUT THE GAME__
 <br>
 A fun and challenging word-guessing game where you must crack a secret combination of letters using the logical deduction. This version replaces the numbers with random leters for an exciting twist.
-<br>
+<br> <br>
 __HOW TO PLAY__
 <br>
 The game will secretly generate a random two-letter word (without repeating letters.
@@ -17,7 +17,7 @@ After each guess, you'll receive clues to help you:
     "Pico"    A letter is correct but in the wrong position.
 <br>
     "Bagels"  No letters are correct.
-<br>
+<br> <br>
 __WIN CONDITION__
 <br>
 If you guess the correct word within the given attempts, you win!
