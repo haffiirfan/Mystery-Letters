@@ -6,7 +6,7 @@ A fun and challenging word-guessing game where you must crack a secret combinati
 <br> <br>
 __HOW TO PLAY__
 <br> <br>
-The game will secretly generate a random two-letter word (without repeating letters.
+The game will secretly generate a random two-letter word (without repeating letters).
 <br>
 You must guess the correct letters in the right order within 15 attempts.
 <br>
